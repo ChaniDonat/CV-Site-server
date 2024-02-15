@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "izcFEe19LL0bi7cnQUMnr2cnTvzr+gaUj9WzZzbWGeeVvOtzA0d4PHuJPUdVEk7vT/quH8IgBxiEQapOlO5Lpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Documents\\חני\\פרקטיקטד- מלגה ברוק\\project 6\\Service\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
